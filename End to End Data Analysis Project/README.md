@@ -1,0 +1,28 @@
+# End-to-End Data Analysis Project
+
+## Overview
+
+This project is part of my data engineering training at Saylani Mass IT Training. It demonstrates an end-to-end data analysis process using a dataset from Kaggle, involving data acquisition, cleaning, and analysis using Python, Pandas, and SQL.
+
+## Project Description
+![Project Architecture.png](https://github.com/muhammadanas007/cde-projects/blob/main/End%20to%20End%20Data%20Analysis%20Project/architecture/Project%20Architecture.png)
+
+### Tools and Technologies
+
+- **Python**: For scripting and data manipulation
+- **Pandas**: For data cleaning and preprocessing
+- **SQL**: For data analysis and querying
+
+## Steps Involved
+
+1. **Data Acquisition**:
+   - Retrieved the dataset from Kaggle.
+   - Uploaded the dataset to the Python environment.
+
+2. **Data Cleaning**:
+   - Used Python and Pandas to clean and preprocess the data.
+   - Handled missing values, corrected data types, and removed duplicates.
+
+3. **Data Analysis**:
+   - Utilized SQL for performing various data analysis tasks.
+   - Generated insights and performed complex queries to derive meaningful information.
